@@ -1,0 +1,80 @@
+body{
+	margin:0;
+	padding: 0;
+}
+
+.container{
+	margin: 0px auto;
+	width: 960px;
+	height: 500px;
+	background: #35424a;
+}
+
+.container h1{
+	text-align: center;
+	color: #ffffff;
+	padding-top: 20px;
+}
+
+.color{
+	height: 250px;
+	width: 250px;
+	margin:20px auto;
+	border-radius: 50%;
+	background:#ffffff;
+}
+
+.buttons{
+	text-align: center;
+
+}
+.buttons .btn-1{
+	background-color: red;
+	height: 50px;
+	width: 50px;
+	border:none;
+	border-radius:50%;
+	margin-right: 5px;
+}
+
+.buttons .btn-2{
+	background-color: blue;
+    height: 50px;
+	width: 50px;
+	border-radius:50%;
+	border:none;
+	margin-right: 5px;
+
+}
+
+.buttons .btn-3{
+	background-color: green;
+    height: 50px;
+	width: 50px;
+	border-radius:50%;
+	border:none;
+}
+
+.buttons .btn-4{
+	background-color: pink;
+    height: 50px;
+	width: 50px;
+	border-radius:50%;
+	border:none;
+}
+
+.buttons .btn-5{
+	background-color: orange;
+    height: 50px;
+	width: 50px;
+	border-radius:50%;
+	border:none;
+}
+
+.buttons .btn-6{
+	background-color: purple;
+    height: 50px;
+	width: 50px;
+	border-radius:50%;
+	border:none;
+}
